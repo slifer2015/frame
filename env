@@ -1,0 +1,13 @@
+{
+    "connection":{
+        "mysql":{
+            "driver":"mysql",
+            "host":"localhost",
+            "username":"root",
+            "db":"mft",
+            "password":"",
+            "port":3306,
+            "charset":"utf-8"
+        }
+    }
+}
